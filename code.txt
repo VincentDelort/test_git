@@ -1,5 +1,11 @@
 Initial segment
 ----------------------
 v1 segment:
-    commit 1
-    commit 2
+    commit 1.1
+    commit 2.1
+----------------------
+v2 segment:
+    commit 2.1
+    commit 2.2
+    bugfix 2.1
+    bugfix 2.2
