@@ -8,3 +8,4 @@ v2 segment:
     commit 2.1
     commit 2.2
     bugfix 2.1
+    bugfix 2.2
